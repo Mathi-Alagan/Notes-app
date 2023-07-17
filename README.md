@@ -4,6 +4,6 @@ Project setup in windows:
 
 ```
  npm install
- npm start
+ npm run dev
 ````
 
